@@ -8,5 +8,4 @@ The repository showcases how a DApp can look like.
 In the Repository you will find a custom built BEP-20 Smart contract that has  
 staking and rewarding mechanisms in place. 
 
-at first please make payment 50$ to this payoneer id: 229842653@qq.com 
-After confirm from me, we can process remain amount.
+

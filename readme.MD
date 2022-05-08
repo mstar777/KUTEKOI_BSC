@@ -1,3 +1,5 @@
+at first please make payment 50$ to this payoneer id: 229842653@qq.com 
+After confirm from me, we can process remain amount.
 # Decentralized Application
 This is a repository built while writing an article on my blog on Medium.  
 

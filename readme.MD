@@ -1,11 +1,4 @@
-
-
-# Please make payment and donate for my Decentralized Application
-
-To donate for my working, Please use this new payoneer id:  kn7797@163.com, Don't use previous payoneer id.
-
-Also I can receive through this USDT wallet adress: 0x4F47Bc496083C727c5fbe3CE9CDf2B0f6496270c
-                                                    
+                                                  
 
 
 # Decentralized Application
